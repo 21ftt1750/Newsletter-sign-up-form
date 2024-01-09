@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/QR-Code-Component/static/css/main.10bd6654.css",
-    "main.js": "/QR-Code-Component/static/js/main.af387bea.js",
-    "index.html": "/QR-Code-Component/index.html",
-    "main.10bd6654.css.map": "/QR-Code-Component/static/css/main.10bd6654.css.map",
-    "main.af387bea.js.map": "/QR-Code-Component/static/js/main.af387bea.js.map"
+    "main.css": "/21ftt1750/Newsletter-sign-up-form.git/static/css/main.829d4536.css",
+    "main.js": "/21ftt1750/Newsletter-sign-up-form.git/static/js/main.984e1eb9.js",
+    "static/media/illustration-sign-up-desktop.svg": "/21ftt1750/Newsletter-sign-up-form.git/static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862252535b544c9.svg",
+    "index.html": "/21ftt1750/Newsletter-sign-up-form.git/index.html",
+    "static/media/icon-success.svg": "/21ftt1750/Newsletter-sign-up-form.git/static/media/icon-success.1ad016255f85fa877dc6bee8c9621535.svg",
+    "static/media/icon-list.svg": "/21ftt1750/Newsletter-sign-up-form.git/static/media/icon-list.5e317c030bb9f11a33433484a2c590e1.svg",
+    "main.829d4536.css.map": "/21ftt1750/Newsletter-sign-up-form.git/static/css/main.829d4536.css.map",
+    "main.984e1eb9.js.map": "/21ftt1750/Newsletter-sign-up-form.git/static/js/main.984e1eb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.10bd6654.css",
-    "static/js/main.af387bea.js"
+    "static/css/main.829d4536.css",
+    "static/js/main.984e1eb9.js"
   ]
 }
