@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR-Code-Component/static/css/main.10bd6654.css",
+    "main.js": "/QR-Code-Component/static/js/main.af387bea.js",
+    "index.html": "/QR-Code-Component/index.html",
+    "main.10bd6654.css.map": "/QR-Code-Component/static/css/main.10bd6654.css.map",
+    "main.af387bea.js.map": "/QR-Code-Component/static/js/main.af387bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bd6654.css",
+    "static/js/main.af387bea.js"
+  ]
+}
